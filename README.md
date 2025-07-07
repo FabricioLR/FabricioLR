@@ -1,8 +1,8 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudante de Ciência da Computação.
-- 🌱 Aprendendo mais sobre desenvolvimento web.
+- Explorando novas tecnologias e desenvolvendo soluções de software.
+- Estudante de Ciência da Computação.
+- Aprendendo mais sobre desenvolvimento web.
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=FabricioLR&color=006bed)
@@ -31,5 +31,5 @@
 
 [![Linkedin](https://img.shields.io/badge/-Fabrício-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabr%C3%ADcio-longo-de-ara%C3%BAjo-70321a228)](https://www.linkedin.com/in/fabr%C3%ADcio-longo-de-ara%C3%BAjo-70321a228)
 [![Gmail Badge](https://img.shields.io/badge/-fabriciolongodearaujo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabriciolongodearaujo@gmail.com)](mailto:fabriciolongodearaujo@gmail.com)
-[![Portfolio](https://img.shields.io/website?url=http%3A//www.fabriciolr.site/)](https://www.fabriciolr.site)
+[![Portfolio](https://img.shields.io/website?url=https%3A//www.fabriciolr.site/)](https://www.fabriciolr.site)
 [![GitHub](https://img.shields.io/github/followers/FabricioLR?label=follow&style=social)](https://github.com/FabricioLR)
