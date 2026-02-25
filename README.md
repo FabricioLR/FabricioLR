@@ -30,6 +30,6 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Fabrício-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabr%C3%ADcio-longo-de-ara%C3%BAjo-70321a228)](https://www.linkedin.com/in/fabr%C3%ADcio-longo-de-ara%C3%BAjo-70321a228)
-[![Gmail Badge](https://img.shields.io/badge/-fabriciolongodearaujo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabriciolongodearaujo@gmail.com)](mailto:fabriciolongodearaujo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-fabricio@fabriciolr.online-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabricio@fabriciolr.online)](mailto:fabricio@fabriciolr.online)
 [![Portfolio](https://img.shields.io/website?url=https%3A//www.fabriciolr.site/)](https://www.fabriciolr.site)
 [![GitHub](https://img.shields.io/github/followers/FabricioLR?label=follow&style=social)](https://github.com/FabricioLR)
