@@ -1,36 +1,32 @@
-## Sobre mim
+## About Me
 
-- Explorando novas tecnologias e desenvolvendo soluções de software.
-- Estudante de Ciência da Computação.
-- Aprendendo mais sobre desenvolvimento web.
-- Estagiário de Infraestrutura
-<br/>
+- 🎓 Computer Science Student
+- 🚀 Junior PHP Developer | Building scalable web applications and exploring modern back-end patterns.
+- 🐧 Linux & Infrastructure | Self-taught server administrator with a focus on self-hosted solutions.
+- ☁️ Cloud Enthusiast | Heavily utilizing Oracle Cloud Infrastructure (OCI) for production and testing.
+- 🛠️ DevOps & Observability | Passionate about Docker, server monitoring, and automation.
 
-![](https://komarev.com/ghpvc/?username=FabricioLR&color=006bed)
-
-## Minhas Skills
-
-**Tecnologias**
-
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![NodeJs](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
+## My Skills
+### Backend & Web Development
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+### Infrastructure & Observability
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=Jenkins)
+![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=Prometheus)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)
+### Tools & Automation
+![N8N](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n)
 
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-Fabrício-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-arauj)](https://www.linkedin.com/in/fabricio-arauj)
-[![Gmail Badge](https://img.shields.io/badge/-fabricio@fabriciolr.online-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabricio@fabriciolr.online)](mailto:fabricio@fabriciolr.online)
-[![Portfolio](https://img.shields.io/website?url=https%3A//www.fabriciolr.online/)](https://www.fabriciolr.online)
+## Where to Find Me
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-arauj)](https://www.linkedin.com/in/fabricio-arauj)
+[![Gmail Badge](https://img.shields.io/badge/-fabriciolongodearaujo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabriciolongodearaujo@gmail.com)](mailto:fabriciolongodearaujo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-fabriciolr.online-green?style=flat-square&link=https://fabriciolr.online)](https://www.fabriciolr.online)
 [![GitHub](https://img.shields.io/github/followers/FabricioLR?label=follow&style=social)](https://github.com/FabricioLR)
